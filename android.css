@@ -1,0 +1,86 @@
+body{
+  background-color: black;
+  color: black;
+  place-items: center;
+  place-content: center;
+  font-family: Arial;
+}
+
+h1{
+  color: white;
+  font-size: 22px;
+  margin: 30px;
+}
+
+.shadowslayer{
+  width: 265px;
+  height: 325px;
+  background-color: black;
+  border: 3px solid #6966ff;
+  margin: 30px;
+  border-radius: 9px;
+}
+.mlbb{
+  width: 265px;
+  height: 360px;
+  background-color: black;
+  border: 3px solid #6966ff;
+  margin: 60px;
+  border-radius: 9px;
+}
+.Standoff2{
+  width: 265px;
+  height: 360px;
+  background-color: black;
+  border: 3px solid #6966ff;
+  margin: 60px;
+  border-radius: 9px;
+}
+.gangster-vegas{
+  width: 265px;
+  height: 360px;
+  background-color: black;
+  border: 3px solid #6966ff;
+  margin: 60px;
+  border-radius: 9px;
+}
+
+h2{
+  font-size: 18px;
+  color: white;
+  place-self: center;
+  padding: 0px;
+}
+
+button[type=download]{
+  color: white;
+  background-color: #1971fd;
+  border-radius: 20px;
+  height: 30px;
+  width: 130px;
+  border: none;
+  margin-left: 70px;
+  margin-top: 0px;
+  font-size: 10px;
+}
+
+p{
+  color: white;
+  margin: 0px;
+  padding-bottom: 8px;
+  text-align: center;
+}
+
+#shadowslayerimg{
+  padding: 0px;
+}
+
+ul{
+  color: white;
+  place-self: start;
+}
+
+p1{
+  color: white;
+  place-self: start;
+}
