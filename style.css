@@ -1,0 +1,200 @@
+*{
+  place-items: center;
+  font-family: Arial;
+}
+
+
+body{
+  margin:0px;
+  background-color: #0f0f0f;
+  text-align: center;
+  font-size: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0px;
+}
+
+h1{
+  color: #3248cd;
+  padding: 18px;
+}
+
+.container{
+  width: 280px;
+  height: 130px;
+  margin: 38px;
+  margin-bottom: 0px;
+  padding: 5px;
+  background-color: black;
+  border-radius: 30px;
+  border: 1px solid #3d5dff;
+}
+
+h2, h4{
+  text-align: start;
+  color: white;
+  font-size: 13px;
+  margin: 25px;
+}
+
+h5{
+  padding: 7px;
+  text-align: center;
+  color: white;
+}
+
+a1{
+  color: #6868fe;
+  outline: none;
+  
+}
+
+p1{
+  color: white;
+  font-size: 20px;
+}
+
+.contents{
+  padding: 19px;
+  background-color: #FFF;
+  border-radius: 30px;
+  margin:19px;
+}
+
+.content1{
+  background-color: wheat;
+  width: auto;
+  margin: 9px;
+  padding: 10px;
+}
+
+h3{
+  text-align: center;
+  color:white;
+  font-size: 20px;
+}
+
+button[type=pagert]{
+  color: white;
+  background-color: #1971fd;
+  border-radius: 20px;
+  height: 30px;
+  width: 150px;
+  border: none;
+}
+
+h4{
+  font-size: 12px;
+}
+
+strong1 {
+  color: #5442ff;
+}
+
+strong {
+  color: lightskyblue;
+}
+
+.Ios{
+  width: 300px;
+  height: 220px;
+  margin: 22px;
+  padding: 5px;
+  background-color: #ffffff;
+  border-radius: 30px;
+  border: 3px solid #6966ff;
+}
+
+.windows{
+  width: 300px;
+  height: 220px;
+  margin: 22px;
+  padding: 5px;
+  background-color: #ffffff;
+  border-radius: 30px;
+  border: 3px solid #6966ff;
+}
+
+ .Android{
+  width: 300px;
+  height: 220px;
+  margin: 22px;
+  padding: 5px;
+  background-color: #ffffff;
+  border-radius: 30px;
+  border: 3px solid #6966ff;
+}
+
+.telegram{
+  width: 300px;
+  height: 220px;
+  margin: 22px;
+  padding: 5px;
+  background-color: #ffffff;
+  border-radius: 30px;
+  border: 3px solid #6966ff;
+}
+.playstation{
+  width: 300px;
+  height: 220px;
+  margin: 22px;
+  padding: 5px;
+  background-color: #ffffff;
+  border-radius: 30px;
+  border: 3px solid #6966ff;
+}
+.ppsspp{
+  width: 300px;
+  height: 220px;
+  margin: 22px;
+  padding: 5px;
+  background-color: #ffffff;
+  border-radius: 30px;
+  border: 3px solid #6966ff;
+}
+
+
+
+p{
+  color: blue;
+  font-size: 15px;
+}
+
+a{
+  color: lightskyblue;
+}
+
+
+#fb{
+  border-radius: 30px;
+}
+h5{
+  color: white;
+  font-size: 7px;
+  padding: 0px;
+}
+
+.fb{
+  margin: 20px;
+  margin-left: 30px;
+  place-self: start;
+}
+
+.top-game{
+  margin: 8px;
+  padding: 0px;
+  display: flex; 
+}
+
+.mlbb, .cyb, .gv{
+  border: 1px solid lightblue;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+h6{
+  padding: 0px;
+  font-size: 15px;
+  color: white;
+}
