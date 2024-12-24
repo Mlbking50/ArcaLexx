@@ -1,0 +1,59 @@
+body{
+  background-color: black;
+  place-content: center;
+  place-items: center;
+  margin: 0px;
+  font-family: Arial;
+}
+
+h1{
+  color: white;
+  font-size: 27px;
+}
+
+.cyberpunk{
+  width: 260px;
+  height: 400px;
+  background-color: black;
+  border: 3px solid #6966ff;
+  margin: 60px;
+  border-radius: 9px;
+}
+
+.final_fantasy{
+  width: 260px;
+  height: 340px;
+  background-color: black;
+  border: 3px solid #6966ff;
+  margin: 60px;
+  border-radius: 9px;
+}
+
+button[type=download]{
+  color: white;
+  background-color: #1971fd;
+  border-radius: 20px;
+  height: 30px;
+  width: 130px;
+  border: none;
+  margin-left: 65px;
+  margin-top: 4px;
+  font-size: 10px;
+}
+
+p{
+  color: white;
+  text-align: center;
+}
+
+h2{
+  font-size: 18px;
+  color: white;
+  place-self: center;
+  padding-bottom: 0px;
+}
+
+ul{
+  color: white;
+  place-self: start;
+}

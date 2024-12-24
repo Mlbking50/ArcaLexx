@@ -1,0 +1,9 @@
+body{
+  background-color: black;
+  place-items: center;
+  place-content: center;
+}
+
+h1{
+  color: white;
+}
